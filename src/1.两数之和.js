@@ -13,7 +13,3 @@ var twoSum = function(nums, target) {
         }
     }
 };
-let nums = [1, 3, 4, 2]
-let target = 6
-let a = twoSum(nums, target)
-console.log(a)
